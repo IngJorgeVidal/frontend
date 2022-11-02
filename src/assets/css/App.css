@@ -1,0 +1,31 @@
+:root {
+    --primaryColor: #0072BC;
+    --secondaryColor: #1FA2D6;
+    --blackColor: #010101;
+    --grayColor: #CCCCCC;
+    --whiteColor: #FFFFFF;
+}
+
+.back-primary {
+    background-color: var(--primaryColor);
+}
+
+.back-gray {
+    background-color: var(--grayColor);
+}
+
+/* Edit styles bootstrap */
+
+.active {
+    background-color: var(--secondaryColor) !important;
+}
+#about-section,
+#service-section {
+    background-color: var(--whiteColor);
+    padding: 0;
+}
+
+.banner2, .banner3{
+   background-position: unset; 
+   background-size: 100% 400px;
+}
