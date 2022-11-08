@@ -1,6 +1,6 @@
 # frontend
 REQUERIMENTS:
-instrucciones para la ejecucion FRONTEND grupo_13_ncr2552
+instrucciones para la ejecucion FRONTEND grupo_13_ncr2252
 
 CMD en la carpeta del proyecto
 INGRESA A cd frontend
