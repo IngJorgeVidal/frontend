@@ -23,7 +23,7 @@ npm start
 si lo instalo con exito espere a que se levante el servicio y salga
 
 Compiled successfully!
-You can now view plataforma_paquetes_grupo_13_jjamp_uninorte_ncr2552 in the browser.
+You can now view plataforma_paquetes_grupo_13_jjamp_uninorte_ncr2252 in the browser.
 
   Local:            http://localhost:3000
   On Your Network:  http://192.168.1.73:3000
